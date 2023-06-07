@@ -15,7 +15,7 @@
     <div class="content">
         <div class="header">
             <h1>Home</h1>
-            <p>Boodschappenservice Bas Brengt Boodschappen</p>
+            <p>Boodschappenservice Bas Brengt Boodschappen aan de klant. project van milan timmers</p>
 
         </div>
     </div>
